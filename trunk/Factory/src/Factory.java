@@ -1,15 +1,3 @@
-/*
-a) Testati si rulati acest cod sursa. Explicati ce realizeaza.
-b) Realizati diagrama de clasa pentru codul sursa de mai sus. Explicati relatiile dintre
-clase.
-c) Care este rolul metodei cloan() ?
-d) Ce sablon de proiectare este utilizat in cadrul acestei aplicatii ? Explicati. Utilizati
-pentru aceste explicatii o diagrama de colaborare.
-e) Ce este o clasa incapsulata ( inner class )? Puteti exemplifica pentru cazul de mai sus.
-f) Care este semnificatia modificatorului static pentru atribute, metode si clase ?
-*/
-
-
 public class Factory{
 	interface Xyz {
 		Xyz cloan();
