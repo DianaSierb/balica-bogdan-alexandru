@@ -5,6 +5,9 @@ public class FrenchPhoneNumber {
 			this.phoneNumber=n;
 			}
 		}
+	public void setPhoneNumber(String phoneNumber) {
+		this.phoneNumber = phoneNumber;
+	}
 	public String getPhoneNumber()	{
 		return this.phoneNumber;
 		}
